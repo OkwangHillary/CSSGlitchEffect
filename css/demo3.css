@@ -1,9 +1,9 @@
 .demo-3 {
-	--color-text: #454847;
+	--color-text: #fff;
 	--color-bg: #1d2121;
-	--color-link: #454847;
+	--color-link: #f9d77e;
 	--color-link-hover: #fff;
-	--color-info: #454847;
+	--color-info: #efc453;
 	--glitch-width: 40vmax;
 	--glitch-height: calc(40vmax * 1.25);
 	--color-title: #fff;

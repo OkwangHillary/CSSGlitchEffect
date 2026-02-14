@@ -1,9 +1,9 @@
 .demo-2 {
-	--color-text: #aaa;
+	--color-text: #fff;
 	--color-bg: #000;
-	--color-link: #1c1cc9;
-	--color-link-hover: #aaa;
-	--color-info: #1c1cc9;
+	--color-link: #f9d77e;
+	--color-link-hover: #fff;
+	--color-info: #efc453;
 	--glitch-width: 100vw;
 	--glitch-height: 100vh;
 	--gap-horizontal: 10px;
